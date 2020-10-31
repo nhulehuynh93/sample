@@ -1,6 +1,5 @@
 <?php
 
-require_once('coordinate.php');
 
 class Circuit
 {
